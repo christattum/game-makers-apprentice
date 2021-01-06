@@ -1,0 +1,12 @@
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'music_background' - setting to default audio group
+Missing audiogroup for sound: 'sound_click' - setting to default audio group
+Game speed set to 40
+Added compatibility script 'action/action_bounce.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_set_motion.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
