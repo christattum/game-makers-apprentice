@@ -1,0 +1,22 @@
+Converting GML script: ${project_dir}\objects\object_demon\Collision_69b72fd3-e24e-4dd7-83b3-48fb6716e045.gml
+Converted description /// @description  show_highscore_table
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'sound_enemy' - setting to default audio group
+Missing audiogroup for sound: 'sound_friend' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_if_dice.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'action/action_reverse_ydir.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

@@ -1,0 +1,27 @@
+Converting GML script: ${project_dir}\objects\object_dead\Other_7.gml
+Converted description /// @description  show_highscore_table
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'sound_bad' - setting to default audio group
+Missing audiogroup for sound: 'sound_good' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_if_number.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_message.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_next_room.gml'
+Added compatibility script 'action/action_restart_game.gml'
+Added compatibility script 'action/action_set_motion.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'action/action_wrap.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

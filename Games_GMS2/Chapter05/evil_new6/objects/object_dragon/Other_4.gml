@@ -1,0 +1,10 @@
+action_partsyst_create(0);
+action_parttype_create(0, 4, -1, 0.1, 0.25, 0);
+action_parttype_gravity(0, 1, 270);
+action_parttype_speed(0, 0, 5, 0, 360, 0);
+action_parttype_life(0, 8, 16);
+action_parttype_color(0, 1, 65408, 16777215, 0.9, 1);
+action_parttype_create(1, 12, -1, 0.05, 0.5, 0.05);
+action_parttype_speed(1, 10, 20, -22, 22, 0.5);
+action_parttype_color(1, 0, 16777215, 16777215, 1, 0);
+action_parttype_life(1, 10, 10);
