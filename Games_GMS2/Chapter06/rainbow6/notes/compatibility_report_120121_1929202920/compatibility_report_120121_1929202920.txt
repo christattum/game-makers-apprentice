@@ -1,0 +1,46 @@
+Converting GML script: ${project_dir}\objects\obj_congrats\Alarm_0.gml
+Converted description /// @description  show_highscore_table
+
+Converting GML script: ${project_dir}\objects\obj_controller\Other_6.gml
+Converted description /// @description  show_highscore_table
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'snd_music' - setting to default audio group
+Missing audiogroup for sound: 'snd_wall' - setting to default audio group
+Missing audiogroup for sound: 'snd_block' - setting to default audio group
+Missing audiogroup for sound: 'snd_katch' - setting to default audio group
+Missing audiogroup for sound: 'snd_bigleg' - setting to default audio group
+Missing audiogroup for sound: 'snd_lost' - setting to default audio group
+Missing audiogroup for sound: 'snd_click' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_bounce.gml'
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_current_room.gml'
+Added compatibility script 'action/action_draw_life_images.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_if_number.gml'
+Added compatibility script 'action/action_if_object.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_load_game.gml'
+Added compatibility script 'action/action_message.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_next_room.gml'
+Added compatibility script 'action/action_previous_room.gml'
+Added compatibility script 'action/action_reverse_xdir.gml'
+Added compatibility script 'action/action_save_game.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_gravity.gml'
+Added compatibility script 'action/action_set_life.gml'
+Added compatibility script 'action/action_set_motion.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
