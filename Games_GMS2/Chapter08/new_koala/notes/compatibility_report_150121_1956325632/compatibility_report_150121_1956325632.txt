@@ -1,0 +1,64 @@
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Font Arial has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\Arial\Arial.gms1.png
+Converting GML script: ${project_dir}\objects\obj_koala_dead\Other_0.gml
+Converted description /// @description  sleep(1000)/// @param 1000
+
+Converting GML script: ${project_dir}\objects\obj_exit_info\Alarm_0.gml
+Converted description /// @description  sleep(5000)/// @param 5000
+
+Converting GML script: ${project_dir}\objects\obj_train_end\Alarm_0.gml
+Converted description /// @description  sleep(5000)/// @param 5000
+
+Missing audiogroup for sound: 'snd_music' - setting to default audio group
+Missing audiogroup for sound: 'snd_click' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosion1' - setting to default audio group
+Missing audiogroup for sound: 'snd_explosion2' - setting to default audio group
+Missing audiogroup for sound: 'snd_saw' - setting to default audio group
+Missing audiogroup for sound: 'snd_saved' - setting to default audio group
+Missing audiogroup for sound: 'snd_rock' - setting to default audio group
+Missing audiogroup for sound: 'snd_bounce' - setting to default audio group
+Missing audiogroup for sound: 'snd_lock' - setting to default audio group
+Missing audiogroup for sound: 'snd_tick' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_color.gml'
+Added compatibility script 'action/action_create_object_motion.gml'
+Added compatibility script 'action/action_current_room.gml'
+Added compatibility script 'action/action_draw_life_images.gml'
+Added compatibility script 'action/action_draw_rectangle.gml'
+Added compatibility script 'action/action_draw_sprite.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_end_sound.gml'
+Added compatibility script 'action/action_font.gml'
+Added compatibility script 'action/action_if_aligned.gml'
+Added compatibility script 'action/action_if_dice.gml'
+Added compatibility script 'action/action_if_empty.gml'
+Added compatibility script 'action/action_if_number.gml'
+Added compatibility script 'action/action_if_object.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_load_game.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_move_start.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_next_room.gml'
+Added compatibility script 'action/action_previous_room.gml'
+Added compatibility script 'action/action_reverse_xdir.gml'
+Added compatibility script 'action/action_reverse_ydir.gml'
+Added compatibility script 'action/action_save_game.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_gravity.gml'
+Added compatibility script 'action/action_set_life.gml'
+Added compatibility script 'action/action_set_motion.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

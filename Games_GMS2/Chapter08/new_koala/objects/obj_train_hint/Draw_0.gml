@@ -1,0 +1,13 @@
+action_set_relative(1);
+action_color(0);
+action_draw_rectangle(-205, -56, 214, 52, 0);
+action_draw_rectangle(-212, -54, 212, 54, 0);
+action_color(12632256);
+action_draw_rectangle(-211, -53, 211, 53, 0);
+action_color(8421504);
+action_draw_rectangle(-210, -52, 210, 52, 0);
+action_color(16777215);
+action_font(Arial, 1);
+action_draw_text("Oh Dear! Take it steady.", 0, -30);
+action_draw_text("Try moving one square at a time.", 0, 0);
+action_set_relative(0);
