@@ -1,0 +1,19 @@
+Converting GML script: ${project_dir}\scripts\scr_field_draw\scr_field_draw.gml
+Converted string - line 16: 'Player Wins: ' -> "Player Wins: "
+Converted string - line 18: 'Computer Wins: ' -> "Computer Wins: "
+Converted string - line 20: 'Draws: ' -> "Draws: "
+
+Converting GML script: ${project_dir}\scripts\scr_check_end\scr_check_end.gml
+Converted string - line 9: 'YOU WIN' -> "YOU WIN"
+Converted string - line 19: 'YOU LOSE' -> "YOU LOSE"
+
+Font fnt_score has been converted to font family Comic Sans MS (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_score\fnt_score.gms1.png
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'snd_place' - setting to default audio group
+Missing audiogroup for sound: 'snd_win' - setting to default audio group
+Missing audiogroup for sound: 'snd_lose' - setting to default audio group
+Missing audiogroup for sound: 'snd_draw' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'sound/sound_play.gml'
